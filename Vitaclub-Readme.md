@@ -95,6 +95,9 @@
 ### ---
 
 ###  **Book Your Free Trial (Main CTA)**
+ 
+![Booking Form Screenshot](https://github.com/Angel1-coder/Vita-Club/blob/main/images/Screenshot-form.png?raw=true)
+
 
 * ### Clean, responsive form with the following fields: 
 
@@ -200,7 +203,7 @@
 
 * ### Both HTML and CSS were successfully validated using the official [W3C HTML Validator](https://validator.w3.org/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/).
 
-  ### ![][image2]![][image3] 
+  ![HTML CSS Validation](https://github.com/Angel1-coder/Vita-Club/blob/main/images/Screenshot-testing-html-css.png?raw=true)
 
 * ### No critical errors or warnings were detected. 
 
@@ -210,7 +213,7 @@
 
 * ### We used Google Lighthouse to evaluate the website’s performance and quality. 
 
-  ### ![][image4] 
+  ![Lighthouse Score](https://github.com/Angel1-coder/Vita-Club/blob/main/images/Screenshot-lighthouse-testing.png?raw=true)
 
 ### These results confirm that the website meets the highest standards in terms of technical implementation, user experience, and search engine optimization.
 
