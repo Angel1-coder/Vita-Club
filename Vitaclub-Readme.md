@@ -10,7 +10,7 @@
 
 ### Main Goal:  This page is designed to increase customer sign-ups through a Free Trial booking form, helping us grow our community and club membership base.
 
-![][image1]
+![Hero Screenshot](images/Screenshot-hero.png)
 
 ### ---
 
