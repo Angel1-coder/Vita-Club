@@ -10,7 +10,8 @@
 
 ### Main Goal:  This page is designed to increase customer sign-ups through a Free Trial booking form, helping us grow our community and club membership base.
 
-![Hero Screenshot](images/Screenshot-hero.png)
+![Hero Screenshot](https://github.com/Angel1-coder/Vita-Club/blob/main/images/Screenshot-hero.png?raw=true)
+
 
 ### ---
 
