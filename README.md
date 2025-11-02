@@ -128,13 +128,13 @@ Vital Club is a responsive website for a premium fitness and wellness center tha
 
 For partnership inquiries or technical issues, please reach out:
 
-**contact@vitalclub.com** 📞 +49 123 456 789
+**contact@vitalclub.com** | +49 123 456 789
 
 ---
 
 ## Location & Hours
 
-**Vital Club** | Sample Street 123 | 🕐 Mon–Fri: 6am–11pm | 🕐 Sat–Sun: 8am–10pm
+**Vital Club** | Sample Street 123 | Mon–Fri: 6am–11pm | Sat–Sun: 8am–10pm
 
 ---
 
@@ -146,14 +146,13 @@ This project is for demo, portfolio, or commercial use under the Vital Club bran
 
 ## Testing
 
-Our project has been thoroughly tested to ensure high quality, accessibility, and responsiveness across all devices.
+The project has been tested for quality, accessibility, and responsiveness across all devices.
 
 ### HTML & CSS Validation
 
-* Both HTML and CSS were successfully validated using the official [W3C HTML Validator](https://validator.w3.org/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/).
+* HTML and CSS validated using [W3C HTML Validator](https://validator.w3.org/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/).
 
-![HTML Validation](assets/images/Screenshot-testing-html-css.png)
-![CSS Validation](assets/images/Screenshot-testing-html-css.png) 
+![Validation Results](assets/images/Screenshot-testing-html-css.png) 
 
 * No critical errors or warnings were detected.
 
@@ -161,8 +160,8 @@ Our project has been thoroughly tested to ensure high quality, accessibility, an
 
 ### Lighthouse Testing
 
-We used Google Lighthouse to evaluate the website's performance and quality.
+Performance tested with Google Lighthouse.
 
 ![Form Testing](assets/images/Screenshot-form.png)
 
-These results confirm that the website meets the highest standards in terms of technical implementation, user experience, and search engine optimization.
+All tests passed.
